@@ -1,1 +1,10 @@
 edit by 李泽皓 Christopher；
+
+add : It sends files with changes in the workspace to the index space
+将工作区的有变化的文件上传至缓存区，等待commit
+
+commit : Upload the cache file to the local repository
+将缓存区文件上传至本地仓库
+
+push : Upload the local repository to remote
+将本地仓库文件上传至网络仓库，即github、码云之类的
